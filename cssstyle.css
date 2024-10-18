@@ -1,0 +1,87 @@
+.box{
+    background-color: aquamarine;
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box{
+    background-color: aqua;
+    width: 50vh;
+    height: 50vw;
+}
+
+.padded-text{
+    background-color: deepskyblue;
+    padding: 20px;
+}
+
+.custom-padding{
+    background-color: cadetblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.border-box{
+    background-color: darkseagreen;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.rounded-border{
+    background-color: burlywood;
+    border-width: 3px;
+    border-color: red;
+    border-style: dotted;
+    border-radius: 15px;
+}
+
+.margin-text{
+    background-color:rgb(41, 174, 74);
+    margin: 30px;
+}
+
+.custom-margin{
+    background-color: cornflowerblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.inline-element{
+    background-color: rgb(214, 255, 30);
+    display: inline;
+}
+
+.block-element{
+    background-color: rgb(52, 225, 255);
+    display:block ;
+}
+
+.inline-block{
+    background-color: bisque;
+    display: inline-block;
+}
+
+.hidden-element{
+    background-color: rgb(171, 123, 216);
+    display: none;
+}
+
+.visible-element{
+    background-color: darkmagenta;
+    visibility: visible;
+}
+
+.invisible-element{
+    background-color: rgb(224, 50, 85);
+    visibility: hidden;
+}
+
+.transparent-box{
+    background-color: rgb(8, 0, 245,0.5);
+
+}
